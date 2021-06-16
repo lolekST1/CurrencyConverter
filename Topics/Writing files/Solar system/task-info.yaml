@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create the planets.txt'
+  learner_created: false
+- name: planets.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8339#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 24 May 2021 15:15:10 UTC
+record: -1
